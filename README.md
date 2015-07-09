@@ -7,4 +7,5 @@ Tea timer and stopwatch toy project.
 ### Building
 
 The tool depends on the [Qt](http://www.qt.io/) library.  
-To build the project, just clone the repository and open the `src/Timer.pro` file in QtCreator.
+To build the project, just clone the repository and open the `src/Timer.pro` file in QtCreator.  
+After a successful build, the executable and libraries are in the `bin` folder.
