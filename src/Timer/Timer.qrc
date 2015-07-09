@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Timer">
+        <file>Icons/icon.png</file>
+        <file>Resources/sound.wav</file>
+    </qresource>
+</RCC>
